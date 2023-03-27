@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Imprime a string",
+      "setup": "",
+      "run": "python main.py",
+      "input": "",
+      "output": "oi mundo!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 100
+    }
+  ]
+}
