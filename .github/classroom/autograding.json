@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Test All",
+      "name": "Test via unittest",
       "setup": "",
-      "run": "python -m unittest discover -s test -v",
+      "run": "python -m unittest discover -s test",
       "input": "",
       "output": "",
       "comparison": "included",
